@@ -33,10 +33,10 @@ I am 23 years old and IT graduate who loves everything about front-end developme
   <summary><b>📊 My Github Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/nsafarova/github-readme-stats"><img alt="Safdar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nsafarova&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+    <a href="https://github.com/safdar-ali-india/github-readme-stats"><img alt="Safdar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=safdar-ali-india&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 <br/>
   &nbsp;
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nsafarova&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=safdar-ali-india&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
   <br/>
   </p>
 </details>
